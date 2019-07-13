@@ -1,0 +1,14 @@
+---
+title       : Reactividad en Shiny
+subtitle    : Estructuras de Control
+author      : Camilo Yate T.
+date        : "`r format(Sys.time(), '%d %B %Y')`"
+logo        : logo.png
+css         : style.css
+output      : 
+  ioslides_presentation:
+    widescreen: true
+    transition: slower
+    smaller: true
+    smart: true
+---
